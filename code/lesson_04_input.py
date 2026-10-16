@@ -10,9 +10,9 @@ problem = input("What problem does your business face? ")
 
 # Build a clear prompt from the user's answers.
 prompt = (
-    f"Suggest 3 practical AI sosmlutions for a {business} "
+    f"Suggest 3 practical AI solutions for a {business} "
     f"that struggles with {problem}. Explain each briefly."
-    "don't ask any questions, just provide the solutions."
+    "Don't ask any questions, just provide the solutions."
 )
 
 print(f"\nWelcome, {name}!")
